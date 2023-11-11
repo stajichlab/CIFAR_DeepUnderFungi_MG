@@ -1,0 +1,348 @@
+k141_11066	223926	strain	Vibrio parahaemolyticus RIMD 2210633	2	2	1	0.500	unknown;Pseudomonadota;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;-_Vibrio harveyi group;s_Vibrio parahaemolyticus;-_Vibrio parahaemolyticus RIMD 2210633
+k141_40256	80864	family	Comamonadaceae	1	1	1	1.000	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_76769	80864	family	Comamonadaceae	1	1	1	1.000	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_98532	208964	strain	Pseudomonas aeruginosa PAO1	2	2	1	0.500	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa;-_Pseudomonas aeruginosa PAO1
+k141_113100	395019	strain	Burkholderia multivorans ATCC 17616	2	2	1	0.500	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;-_Burkholderia cepacia complex;s_Burkholderia multivorans;-_Burkholderia multivorans ATCC 17616
+k141_40293	28211	class	Alphaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_69525	224308	strain	Bacillus subtilis subsp. subtilis str. 168	2	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_18399	119060	family	Burkholderiaceae	2	2	1	0.500	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae
+k141_29431	2	superkingdom	Bacteria	4	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_98571	2	superkingdom	Bacteria	7	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_94355	1236	class	Gammaproteobacteria	3	3	3	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_43656	1236	class	Gammaproteobacteria	7	7	5	0.710	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_80070	80840	order	Burkholderiales	3	3	2	0.670	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_7276	1224	phylum	Pseudomonadota	8	7	5	0.710	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_24705	80840	order	Burkholderiales	7	7	4	0.570	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_18181	266264	strain	Cupriavidus metallidurans CH34	3	2	1	0.500	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Cupriavidus;s_Cupriavidus metallidurans;-_Cupriavidus metallidurans CH34
+k141_116464	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_116473	211586	strain	Shewanella oneidensis MR-1	3	2	1	0.500	unknown;Pseudomonadota;Shewanellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Alteromonadales;f_Shewanellaceae;g_Shewanella;s_Shewanella oneidensis;-_Shewanella oneidensis MR-1
+k141_32752	28216	class	Betaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria
+k141_43685	80864	family	Comamonadaceae	7	7	4	0.570	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_110074	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_113633	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_40783	47882	species	Pseudomonas straminea	2	2	1	0.500	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas straminea
+k141_66235	1236	class	Gammaproteobacteria	15	15	8	0.530	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_7950	1236	class	Gammaproteobacteria	7	7	4	0.570	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_70093	562	species	Escherichia coli	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+k141_77296	80864	family	Comamonadaceae	6	6	3	0.500	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_51720	80840	order	Burkholderiales	10	9	5	0.510	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_70146	1224	phylum	Pseudomonadota	5	3	2	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_88214	224308	strain	Bacillus subtilis subsp. subtilis str. 168	3	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_79791	80864	family	Comamonadaceae	2	2	1	0.500	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_109162	28216	class	Betaproteobacteria	5	5	3	0.510	unknown;Pseudomonadota;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria
+k141_109178	80840	order	Burkholderiales	7	7	6	0.810	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_17842	1224	phylum	Pseudomonadota	8	6	5	0.800	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_14092	316	species	Stutzerimonas stutzeri	3	2	1	0.500	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Stutzerimonas;-_Stutzerimonas stutzeri group;-_Stutzerimonas stutzeri subgroup;s_Stutzerimonas stutzeri
+k141_28616	80864	family	Comamonadaceae	9	9	5	0.620	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_54459	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_69148	1224	phylum	Pseudomonadota	6	6	6	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_17949	1224	phylum	Pseudomonadota	5	5	5	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_87015	80840	order	Burkholderiales	3	3	2	0.510	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_43715	1224	phylum	Pseudomonadota	2	2	2	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_57358	83333	strain	Escherichia coli K-12	1	1	1	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12
+k141_39968	543	family	Enterobacteriaceae	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_101684	1224	phylum	Pseudomonadota	9	9	9	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_39982	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_76451	1224	phylum	Pseudomonadota	7	7	7	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_21524	1236	class	Gammaproteobacteria	6	6	3	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_57603	266834	strain	Sinorhizobium meliloti 1021	3	3	3	1.000	unknown;Pseudomonadota;Rhizobiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Rhizobiaceae;-_Sinorhizobium/Ensifer group;g_Sinorhizobium;s_Sinorhizobium meliloti;-_Sinorhizobium meliloti 1021
+k141_101961	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_97222	1224	phylum	Pseudomonadota	3	3	2	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_78015	80840	order	Burkholderiales	6	6	3	0.500	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_26971	1236	class	Gammaproteobacteria	8	8	4	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_38189	28216	class	Betaproteobacteria	5	5	3	0.600	unknown;Pseudomonadota;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria
+k141_59974	305	species	Ralstonia solanacearum	2	2	1	0.500	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Ralstonia;s_Ralstonia solanacearum
+k141_12459	83333	strain	Escherichia coli K-12	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12
+k141_16038	1236	class	Gammaproteobacteria	2	2	1	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_110847	91347	order	Enterobacterales	8	8	5	0.570	unknown;Pseudomonadota;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales
+k141_16042	208964	strain	Pseudomonas aeruginosa PAO1	1	1	1	1.000	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa;-_Pseudomonas aeruginosa PAO1
+k141_63703	80864	family	Comamonadaceae	5	5	4	0.800	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_34594	80864	family	Comamonadaceae	3	3	3	1.000	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_89916	28216	class	Betaproteobacteria	6	6	3	0.590	unknown;Pseudomonadota;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria
+k141_68317	1224	phylum	Pseudomonadota	9	8	7	0.880	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_108453	80840	order	Burkholderiales	5	5	3	0.600	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_17337	562	species	Escherichia coli	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+k141_86187	1224	phylum	Pseudomonadota	8	8	6	0.750	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_108488	398578	strain	Delftia acidovorans SPH-1	1	1	1	1.000	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Delftia;s_Delftia acidovorans;-_Delftia acidovorans SPH-1
+k141_111866	296591	species	Polaromonas sp. JS666	2	2	1	0.500	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Polaromonas;-_unclassified Polaromonas;s_Polaromonas sp. JS666
+k141_89968	1236	class	Gammaproteobacteria	5	5	3	0.600	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_31892	543	family	Enterobacteriaceae	1	1	1	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_93727	224308	strain	Bacillus subtilis subsp. subtilis str. 168	2	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_55367	381666	strain	Cupriavidus necator H16	6	6	3	0.500	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Cupriavidus;s_Cupriavidus necator;-_Cupriavidus necator H16
+k141_35279	28216	class	Betaproteobacteria	4	3	2	0.670	unknown;Pseudomonadota;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria
+k141_89488	338969	strain	Rhodoferax ferrireducens T118	2	2	1	0.500	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Rhodoferax;s_Rhodoferax ferrireducens;-_Rhodoferax ferrireducens T118
+k141_100181	1224	phylum	Pseudomonadota	20	19	17	0.940	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_35308	1111708	no rank	Synechocystis sp. PCC 6803 substr. Kazusa	2	2	1	0.500	unknown;Cyanobacteriota;Merismopediaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Merismopediaceae;g_Synechocystis;-_unclassified Synechocystis;s_Synechocystis sp. PCC 6803;-_Synechocystis sp. PCC 6803 substr. Kazusa
+k141_85831	80864	family	Comamonadaceae	5	5	3	0.600	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_9423	562	species	Escherichia coli	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+k141_64556	780	genus	Rickettsia	3	2	1	0.500	unknown;Pseudomonadota;Rickettsiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rickettsiales;f_Rickettsiaceae;-_Rickettsieae;g_Rickettsia
+k141_78834	286	genus	Pseudomonas	1	1	1	1.000	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+k141_31384	228410	strain	Nitrosomonas europaea ATCC 19718	5	4	3	0.540	unknown;Pseudomonadota;Nitrosomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Nitrosomonadales;f_Nitrosomonadaceae;g_Nitrosomonas;s_Nitrosomonas europaea;-_Nitrosomonas europaea ATCC 19718
+k141_59332	1236	class	Gammaproteobacteria	2	2	1	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_8182	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_106787	1224	phylum	Pseudomonadota	9	9	6	0.630	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_95826	356	order	Hyphomicrobiales	2	2	1	0.500	unknown;Pseudomonadota;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_8223	80864	family	Comamonadaceae	2	1	1	1.000	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_70516	2759	superkingdom	Eukaryota	2	2	1	0.500	uc_Eukaryota;uc_Eukaryota;uc_Eukaryota	-_cellular organisms;d_Eukaryota
+k141_70523	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_110411	395019	strain	Burkholderia multivorans ATCC 17616	2	2	1	0.500	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;-_Burkholderia cepacia complex;s_Burkholderia multivorans;-_Burkholderia multivorans ATCC 17616
+k141_15388	1236	class	Gammaproteobacteria	9	7	5	0.710	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_63211	381666	strain	Cupriavidus necator H16	3	2	1	0.500	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Cupriavidus;s_Cupriavidus necator;-_Cupriavidus necator H16
+k141_103579	1111708	no rank	Synechocystis sp. PCC 6803 substr. Kazusa	1	1	1	1.000	unknown;Cyanobacteriota;Merismopediaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Merismopediaceae;g_Synechocystis;-_unclassified Synechocystis;s_Synechocystis sp. PCC 6803;-_Synechocystis sp. PCC 6803 substr. Kazusa
+k141_99486	1224	phylum	Pseudomonadota	5	5	4	0.800	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_92019	1224	phylum	Pseudomonadota	10	9	8	0.890	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_8528	1236	class	Gammaproteobacteria	3	3	2	0.960	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_110691	1236	class	Gammaproteobacteria	4	4	2	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_92041	80864	family	Comamonadaceae	15	15	9	0.600	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_30592	1236	class	Gammaproteobacteria	4	4	2	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_12322	535289	strain	[Acidovorax] ebreus TPSY	1	1	1	1.000	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Diaphorobacter;s_[Acidovorax] ebreus;-_[Acidovorax] ebreus TPSY
+k141_85091	1224	phylum	Pseudomonadota	5	5	3	0.600	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_74296	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_68414	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_93741	80840	order	Burkholderiales	8	8	6	0.750	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_49652	296591	species	Polaromonas sp. JS666	2	1	1	1.000	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Polaromonas;-_unclassified Polaromonas;s_Polaromonas sp. JS666
+k141_93760	243277	strain	Vibrio cholerae O1 biovar El Tor str. N16961	1	1	1	1.000	unknown;Pseudomonadota;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae;-_Vibrio cholerae O1;-_Vibrio cholerae O1 biovar El Tor;-_Vibrio cholerae O1 biovar El Tor str. N16961
+k141_20446	80864	family	Comamonadaceae	2	2	1	0.500	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_68463	267608	strain	Ralstonia solanacearum GMI1000	1	1	1	1.000	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Ralstonia;s_Ralstonia solanacearum;-_Ralstonia solanacearum GMI1000
+k141_90094	80864	family	Comamonadaceae	5	5	5	1.000	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_112046	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_105318	80864	family	Comamonadaceae	2	2	1	0.500	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_36156	1224	phylum	Pseudomonadota	18	17	16	0.940	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_55001	1224	phylum	Pseudomonadota	7	7	7	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_15560	1224	phylum	Pseudomonadota	1	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_106947	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_52035	381666	strain	Cupriavidus necator H16	1	1	1	1.000	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Cupriavidus;s_Cupriavidus necator;-_Cupriavidus necator H16
+k141_84812	356	order	Hyphomicrobiales	3	3	2	0.960	unknown;Pseudomonadota;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_15622	80864	family	Comamonadaceae	2	2	1	0.500	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_103514	80840	order	Burkholderiales	2	2	1	0.500	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_110633	131567	no rank	cellular organisms	6	5	5	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_26791	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_88418	59406	species	Aromatoleum evansii	6	6	4	0.790	unknown;Pseudomonadota;Rhodocyclaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Rhodocyclales;f_Rhodocyclaceae;g_Aromatoleum;s_Aromatoleum evansii
+k141_7471	543	family	Enterobacteriaceae	2	2	2	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_105986	1236	class	Gammaproteobacteria	8	8	4	0.570	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_33094	83333	strain	Escherichia coli K-12	2	2	1	0.930	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12
+k141_47758	224308	strain	Bacillus subtilis subsp. subtilis str. 168	2	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_33111	1224	phylum	Pseudomonadota	10	9	6	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_95073	80864	family	Comamonadaceae	16	16	8	0.650	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_113260	1224	phylum	Pseudomonadota	3	3	3	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_91320	286	genus	Pseudomonas	2	2	1	0.500	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas
+k141_25880	80864	family	Comamonadaceae	4	3	2	0.670	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_29552	1236	class	Gammaproteobacteria	2	2	1	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_41777	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_92475	28216	class	Betaproteobacteria	11	11	6	0.550	unknown;Pseudomonadota;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria
+k141_19657	80840	order	Burkholderiales	1	1	1	1.000	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_71921	1224	phylum	Pseudomonadota	5	5	4	0.800	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_60290	80864	family	Comamonadaceae	3	2	1	0.500	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_52783	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_5470	80840	order	Burkholderiales	6	6	4	0.610	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_16422	80840	order	Burkholderiales	6	6	5	0.830	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_8911	543	family	Enterobacteriaceae	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_16493	204722	strain	Brucella suis 1330	1	1	1	1.000	unknown;Pseudomonadota;Brucellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Brucellaceae;-_Brucella/Ochrobactrum group;g_Brucella;s_Brucella suis;-_Brucella suis 1330
+k141_72030	1224	phylum	Pseudomonadota	14	14	12	0.860	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_23373	1224	phylum	Pseudomonadota	4	4	3	0.750	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_64032	1224	phylum	Pseudomonadota	16	15	11	0.720	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_45368	267608	strain	Ralstonia solanacearum GMI1000	1	1	1	1.000	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Ralstonia;s_Ralstonia solanacearum;-_Ralstonia solanacearum GMI1000
+k141_78500	1224	phylum	Pseudomonadota	5	5	4	0.750	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_78509	80840	order	Burkholderiales	3	3	2	0.670	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_31026	398578	strain	Delftia acidovorans SPH-1	2	2	1	0.500	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Delftia;s_Delftia acidovorans;-_Delftia acidovorans SPH-1
+k141_107772	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_30061	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_68588	1236	class	Gammaproteobacteria	7	7	4	0.570	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_1416	324602	strain	Chloroflexus aurantiacus J-10-fl	2	2	1	0.500	unknown;Chloroflexota;Chloroflexaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexota;c_Chloroflexia;o_Chloroflexales;-_Chloroflexineae;f_Chloroflexaceae;g_Chloroflexus;s_Chloroflexus aurantiacus;-_Chloroflexus aurantiacus J-10-fl
+k141_83319	176299	strain	Agrobacterium fabrum str. C58	2	2	1	0.500	unknown;Pseudomonadota;Rhizobiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Rhizobiaceae;-_Rhizobium/Agrobacterium group;g_Agrobacterium;-_Agrobacterium tumefaciens complex;s_Agrobacterium fabrum;-_Agrobacterium fabrum str. C58
+k141_108868	1236	class	Gammaproteobacteria	4	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_90229	1224	phylum	Pseudomonadota	1	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_54040	80864	family	Comamonadaceae	4	3	2	0.670	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_108895	2283794	clade	Methanomada group	2	2	1	0.500	unknown;Euryarchaeota;unknown	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group
+k141_100861	1224	phylum	Pseudomonadota	5	5	4	0.800	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_10155	0	no rank	unclassified	1	0	0	0.000		
+k141_32304	1236	class	Gammaproteobacteria	4	4	2	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_6819	2	superkingdom	Bacteria	5	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_65541	314146	superorder	Euarchontoglires	1	1	1	1.000	Metazoa;Chordata;uc_Euarchontoglires	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Deuterostomia;p_Chordata;-_Craniata;-_Vertebrata;-_Gnathostomata;-_Teleostomi;-_Euteleostomi;-_Sarcopterygii;-_Dipnotetrapodomorpha;-_Tetrapoda;-_Amniota;c_Mammalia;-_Theria;-_Eutheria;-_Boreoeutheria;-_Euarchontoglires
+k141_10323	1236	class	Gammaproteobacteria	6	5	3	0.600	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_86851	83333	strain	Escherichia coli K-12	1	1	1	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12
+k141_68951	28105	genus	Sinorhizobium	4	4	3	0.680	unknown;Pseudomonadota;Rhizobiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Rhizobiaceae;-_Sinorhizobium/Ensifer group;g_Sinorhizobium
+k141_32398	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_116050	1224	phylum	Pseudomonadota	6	6	6	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_43447	1224	phylum	Pseudomonadota	16	13	10	0.770	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_6936	1224	phylum	Pseudomonadota	8	7	5	0.710	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_16618	1280	species	Staphylococcus aureus	1	1	1	1.000	unknown;Bacillota;Staphylococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus aureus
+k141_89288	80864	family	Comamonadaceae	2	2	2	1.000	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_114929	80840	order	Burkholderiales	4	3	2	0.670	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_114960	80840	order	Burkholderiales	9	9	5	0.560	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_31216	54061	species	Ralstonia sp.	3	3	2	0.670	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Ralstonia;-_unclassified Ralstonia;s_Ralstonia sp.
+k141_53265	1224	phylum	Pseudomonadota	1	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_89383	83332	strain	Mycobacterium tuberculosis H37Rv	1	1	1	1.000	unknown;Actinomycetota;Mycobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;-_Mycobacterium tuberculosis complex;s_Mycobacterium tuberculosis;-_Mycobacterium tuberculosis H37Rv
+k141_13122	1236	class	Gammaproteobacteria	3	3	2	0.950	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_38684	80864	family	Comamonadaceae	12	11	6	0.550	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_115080	80840	order	Burkholderiales	16	16	8	0.500	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_40850	2	superkingdom	Bacteria	8	7	6	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_15101	28216	class	Betaproteobacteria	16	15	9	0.540	unknown;Pseudomonadota;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria
+k141_15136	80864	family	Comamonadaceae	1	1	1	1.000	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_40896	80840	order	Burkholderiales	6	5	3	0.600	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_73719	10760	no rank	Escherichia phage T7	1	1	1	1.000	Heunggongvirae;Uroviricota;Autographiviridae	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;f_Autographiviridae;-_Studiervirinae;g_Teseptimavirus;s_Teseptimavirus T7;-_Escherichia phage T7
+k141_4498	80864	family	Comamonadaceae	4	4	2	0.500	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_37476	80840	order	Burkholderiales	4	4	2	0.500	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_63043	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_70276	80840	order	Burkholderiales	14	14	7	0.500	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_103118	80864	family	Comamonadaceae	3	3	2	0.670	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_79178	283	genus	Comamonas	8	6	4	0.610	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas
+k141_9661	1236	class	Gammaproteobacteria	9	9	5	0.620	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_31764	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_20312	373	species	Agrobacterium vitis	2	2	1	0.500	unknown;Pseudomonadota;Rhizobiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Rhizobiaceae;-_Rhizobium/Agrobacterium group;g_Agrobacterium;s_Agrobacterium vitis
+k141_24134	1236	class	Gammaproteobacteria	5	4	2	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_93527	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_13418	80840	order	Burkholderiales	3	3	2	0.520	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_53781	2	superkingdom	Bacteria	7	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_42880	80864	family	Comamonadaceae	7	7	4	0.570	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_56067	1111708	no rank	Synechocystis sp. PCC 6803 substr. Kazusa	2	2	1	0.500	unknown;Cyanobacteriota;Merismopediaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Merismopediaceae;g_Synechocystis;-_unclassified Synechocystis;s_Synechocystis sp. PCC 6803;-_Synechocystis sp. PCC 6803 substr. Kazusa
+k141_72083	83333	strain	Escherichia coli K-12	1	1	1	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12
+k141_85421	1236	class	Gammaproteobacteria	4	4	2	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_23457	80864	family	Comamonadaceae	1	1	1	1.000	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_89182	1224	phylum	Pseudomonadota	1	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_64164	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_19950	80864	family	Comamonadaceae	1	1	1	1.000	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_35138	543	family	Enterobacteriaceae	1	1	1	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_67824	1236	class	Gammaproteobacteria	4	4	3	0.990	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_19970	119060	family	Burkholderiaceae	7	7	4	0.570	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae
+k141_45582	80864	family	Comamonadaceae	2	2	1	0.940	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_46580	80840	order	Burkholderiales	1	1	1	1.000	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_39295	1280	species	Staphylococcus aureus	1	1	1	1.000	unknown;Bacillota;Staphylococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus aureus
+k141_20728	28216	class	Betaproteobacteria	6	6	4	0.610	unknown;Pseudomonadota;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria
+k141_24410	543	family	Enterobacteriaceae	3	3	2	0.670	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_46652	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_112367	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_61792	1224	phylum	Pseudomonadota	7	5	5	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_61823	159087	strain	Dechloromonas aromatica RCB	2	2	1	0.500	unknown;Pseudomonadota;Azonexaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Rhodocyclales;f_Azonexaceae;g_Dechloromonas;s_Dechloromonas aromatica;-_Dechloromonas aromatica RCB
+k141_24472	80840	order	Burkholderiales	4	3	2	0.670	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_94079	1224	phylum	Pseudomonadota	5	5	3	0.600	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_31407	1236	class	Gammaproteobacteria	2	2	1	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_55552	1224	phylum	Pseudomonadota	6	5	3	0.600	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_111669	381666	strain	Cupriavidus necator H16	1	1	1	1.000	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Cupriavidus;s_Cupriavidus necator;-_Cupriavidus necator H16
+k141_72357	71421	strain	Haemophilus influenzae Rd KW20	2	2	2	1.000	unknown;Pseudomonadota;Pasteurellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Haemophilus;s_Haemophilus influenzae;-_Haemophilus influenzae Rd KW20
+k141_55632	80864	family	Comamonadaceae	8	7	6	0.840	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_75235	80840	order	Burkholderiales	4	4	3	0.750	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_27826	1224	phylum	Pseudomonadota	4	4	4	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_17104	1224	phylum	Pseudomonadota	10	10	10	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_100335	1224	phylum	Pseudomonadota	8	7	4	0.570	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_104796	1224	phylum	Pseudomonadota	5	5	3	0.600	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_88693	1224	phylum	Pseudomonadota	4	4	3	0.750	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_8754	1224	phylum	Pseudomonadota	13	10	9	0.900	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_63789	119060	family	Burkholderiaceae	2	2	1	0.500	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae
+k141_114708	80864	family	Comamonadaceae	4	4	3	0.750	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_111053	1224	phylum	Pseudomonadota	2	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_16254	208963	strain	Pseudomonas aeruginosa UCBPP-PA14	3	2	1	0.500	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa;-_Pseudomonas aeruginosa UCBPP-PA14
+k141_52665	28216	class	Betaproteobacteria	6	6	3	0.500	unknown;Pseudomonadota;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria
+k141_23141	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_48782	267608	strain	Ralstonia solanacearum GMI1000	2	1	1	1.000	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Ralstonia;s_Ralstonia solanacearum;-_Ralstonia solanacearum GMI1000
+k141_980	221988	strain	[Mannheimia] succiniciproducens MBEL55E	2	2	1	0.500	unknown;Pseudomonadota;Pasteurellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Basfia;s_[Mannheimia] succiniciproducens;-_[Mannheimia] succiniciproducens MBEL55E
+k141_84904	80864	family	Comamonadaceae	10	10	8	0.780	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_19302	1236	class	Gammaproteobacteria	4	4	4	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_74117	80864	family	Comamonadaceae	17	17	9	0.560	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_44709	446	species	Legionella pneumophila	1	1	1	1.000	unknown;Pseudomonadota;Legionellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Legionellales;f_Legionellaceae;g_Legionella;s_Legionella pneumophila
+k141_22700	0	no rank	unclassified	1	0	0	0.000		
+k141_74178	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_84949	119060	family	Burkholderiaceae	4	4	2	0.500	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae
+k141_44785	1236	class	Gammaproteobacteria	3	3	3	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_99470	1236	class	Gammaproteobacteria	2	2	1	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_26881	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_80210	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_39792	91347	order	Enterobacterales	8	8	6	0.750	unknown;Pseudomonadota;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales
+k141_80213	1236	class	Gammaproteobacteria	2	2	2	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_90677	562	species	Escherichia coli	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+k141_32785	292415	strain	Thiobacillus denitrificans ATCC 25259	1	1	1	1.000	unknown;Pseudomonadota;Thiobacillaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Nitrosomonadales;f_Thiobacillaceae;g_Thiobacillus;s_Thiobacillus denitrificans;-_Thiobacillus denitrificans ATCC 25259
+k141_14484	80864	family	Comamonadaceae	6	5	3	0.600	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_94635	52972	genus	Polaromonas	2	2	1	0.500	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Polaromonas
+k141_87271	1224	phylum	Pseudomonadota	8	8	5	0.630	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_50331	1236	class	Gammaproteobacteria	4	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_39868	1236	class	Gammaproteobacteria	2	2	2	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_25199	1224	phylum	Pseudomonadota	5	5	3	0.600	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_25304	224308	strain	Bacillus subtilis subsp. subtilis str. 168	2	1	1	1.000	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_51015	135621	family	Pseudomonadaceae	1	1	1	1.000	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae
+k141_51023	80864	family	Comamonadaceae	3	3	2	0.670	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_97448	1224	phylum	Pseudomonadota	7	5	5	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_2285	208964	strain	Pseudomonas aeruginosa PAO1	1	1	1	1.000	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa;-_Pseudomonas aeruginosa PAO1
+k141_3480	1224	phylum	Pseudomonadota	9	9	7	0.780	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_89156	1076	species	Rhodopseudomonas palustris	2	2	1	0.500	unknown;Pseudomonadota;Nitrobacteraceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Nitrobacteraceae;g_Rhodopseudomonas;s_Rhodopseudomonas palustris
+k141_9132	80840	order	Burkholderiales	4	4	3	0.750	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_42188	28216	class	Betaproteobacteria	10	10	5	0.500	unknown;Pseudomonadota;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria
+k141_51535	1236	class	Gammaproteobacteria	2	2	1	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_66028	1236	class	Gammaproteobacteria	6	6	3	0.590	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_11444	469	genus	Acinetobacter	3	3	2	0.510	unknown;Pseudomonadota;Moraxellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae;g_Acinetobacter
+k141_84285	2	superkingdom	Bacteria	3	3	2	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_113401	272943	strain	Cereibacter sphaeroides 2.4.1	2	2	1	0.500	unknown;Pseudomonadota;Paracoccaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodobacterales;f_Paracoccaceae;g_Cereibacter;s_Cereibacter sphaeroides;-_Cereibacter sphaeroides 2.4.1
+k141_62642	208964	strain	Pseudomonas aeruginosa PAO1	3	2	1	0.500	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa;-_Pseudomonas aeruginosa PAO1
+k141_69813	1236	class	Gammaproteobacteria	4	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_44178	1224	phylum	Pseudomonadota	5	3	3	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_54916	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_44184	323	no rank	Pseudomonas syringae pv. tomato	2	2	1	0.500	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas syringae group;s_Pseudomonas syringae group genomosp. 3;-_Pseudomonas syringae pv. tomato
+k141_64821	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_55761	1236	class	Gammaproteobacteria	7	6	4	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_104822	810	genus	Chlamydia	3	3	2	0.670	unknown;Chlamydiota;Chlamydiaceae	-_cellular organisms;d_Bacteria;-_PVC group;p_Chlamydiota;c_Chlamydiia;o_Chlamydiales;f_Chlamydiaceae;-_Chlamydia/Chlamydophila group;g_Chlamydia
+k141_35700	1224	phylum	Pseudomonadota	4	4	2	0.500	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_42732	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_108293	1236	class	Gammaproteobacteria	2	2	2	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_72595	71421	strain	Haemophilus influenzae Rd KW20	2	2	1	0.500	unknown;Pseudomonadota;Pasteurellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Haemophilus;s_Haemophilus influenzae;-_Haemophilus influenzae Rd KW20
+k141_55920	243232	strain	Methanocaldococcus jannaschii DSM 2661	2	2	1	0.500	unknown;Euryarchaeota;Methanocaldococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanocaldococcaceae;g_Methanocaldococcus;s_Methanocaldococcus jannaschii;-_Methanocaldococcus jannaschii DSM 2661
+k141_31733	80864	family	Comamonadaceae	4	4	3	0.750	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_75408	224308	strain	Bacillus subtilis subsp. subtilis str. 168	3	2	1	0.970	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_80769	208964	strain	Pseudomonas aeruginosa PAO1	2	2	1	0.500	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa;-_Pseudomonas aeruginosa PAO1
+k141_14952	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_98907	1224	phylum	Pseudomonadota	3	3	2	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_62655	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_37160	1224	phylum	Pseudomonadota	6	6	5	0.830	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_80789	17	species	Methylophilus methylotrophus	2	2	1	0.500	unknown;Pseudomonadota;Methylophilaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Nitrosomonadales;f_Methylophilaceae;g_Methylophilus;s_Methylophilus methylotrophus
+k141_91389	1224	phylum	Pseudomonadota	8	8	5	0.570	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_62685	273121	strain	Wolinella succinogenes DSM 1740	3	2	1	0.500	unknown;Pseudomonadota;Helicobacteraceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Epsilonproteobacteria;o_Campylobacterales;f_Helicobacteraceae;g_Wolinella;s_Wolinella succinogenes;-_Wolinella succinogenes DSM 1740
+k141_33443	1224	phylum	Pseudomonadota	4	4	3	0.680	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_91390	1236	class	Gammaproteobacteria	10	9	4	0.560	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_113282	1224	phylum	Pseudomonadota	5	4	2	0.500	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_36878	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_44100	80840	order	Burkholderiales	7	7	5	0.670	unknown;Pseudomonadota;uc_Burkholderiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales
+k141_69658	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_65960	1224	phylum	Pseudomonadota	4	4	2	0.500	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_98785	1224	phylum	Pseudomonadota	4	4	2	0.500	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_11377	543	family	Enterobacteriaceae	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_87930	119060	family	Burkholderiaceae	2	2	1	0.500	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae
+k141_22238	28216	class	Betaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria
+k141_7689	80864	family	Comamonadaceae	20	18	10	0.560	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_106382	1224	phylum	Pseudomonadota	5	5	5	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_95387	83333	strain	Escherichia coli K-12	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12
+k141_26146	1224	phylum	Pseudomonadota	12	12	8	0.640	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_69966	543	family	Enterobacteriaceae	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_4267	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_73552	983917	strain	Rubrivivax gelatinosus IL144	3	2	1	0.500	unknown;Pseudomonadota;Sphaerotilaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Sphaerotilaceae;g_Rubrivivax;s_Rubrivivax gelatinosus;-_Rubrivivax gelatinosus IL144
+k141_18844	1224	phylum	Pseudomonadota	3	3	2	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_11596	543	family	Enterobacteriaceae	4	4	2	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_88083	1236	class	Gammaproteobacteria	4	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_88090	1224	phylum	Pseudomonadota	1	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_7302	72587	species	Pseudomonas sp. 'P.J. 874'	2	2	1	0.500	unknown;Pseudomonadota;unknown	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_Pseudomonadota incertae sedis;-_unclassified pseudomonads;s_Pseudomonas sp. 'P.J. 874'
+k141_3725	1224	phylum	Pseudomonadota	1	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_91217	562	species	Escherichia coli	3	3	3	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli
+k141_21977	1224	phylum	Pseudomonadota	11	11	9	0.820	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_58423	1224	phylum	Pseudomonadota	7	7	7	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_43900	1224	phylum	Pseudomonadota	4	4	4	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_102173	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_47550	28216	class	Betaproteobacteria	6	5	3	0.600	unknown;Pseudomonadota;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria
+k141_76750	208964	strain	Pseudomonas aeruginosa PAO1	2	2	1	0.500	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa;-_Pseudomonas aeruginosa PAO1
+k141_32909	1224	phylum	Pseudomonadota	3	3	3	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_81189	1224	phylum	Pseudomonadota	5	4	4	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_103294	340	no rank	Xanthomonas campestris pv. campestris	4	4	2	0.650	unknown;Pseudomonadota;Xanthomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Xanthomonas;s_Xanthomonas campestris;-_Xanthomonas campestris pv. campestris
+k141_70680	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_113968	1236	class	Gammaproteobacteria	6	6	3	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_81242	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_8311	387	no rank	Rhizobium leguminosarum bv. viciae	1	1	1	1.000	unknown;Pseudomonadota;Rhizobiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Rhizobiaceae;-_Rhizobium/Agrobacterium group;g_Rhizobium;s_Rhizobium leguminosarum;-_Rhizobium leguminosarum bv. viciae
+k141_59530	485	species	Neisseria gonorrhoeae	2	2	1	0.500	unknown;Pseudomonadota;Neisseriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Neisseriales;f_Neisseriaceae;g_Neisseria;s_Neisseria gonorrhoeae
+k141_26643	373	species	Agrobacterium vitis	2	2	1	0.500	unknown;Pseudomonadota;Rhizobiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Rhizobiaceae;-_Rhizobium/Agrobacterium group;g_Agrobacterium;s_Agrobacterium vitis
+k141_81265	208964	strain	Pseudomonas aeruginosa PAO1	8	8	4	0.500	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa;-_Pseudomonas aeruginosa PAO1
+k141_15521	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_39204	208964	strain	Pseudomonas aeruginosa PAO1	1	1	1	1.000	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa;-_Pseudomonas aeruginosa PAO1
+k141_72865	1773	species	Mycobacterium tuberculosis	1	1	1	1.000	unknown;Actinomycetota;Mycobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;-_Mycobacterium tuberculosis complex;s_Mycobacterium tuberculosis
+k141_100717	284812	strain	Schizosaccharomyces pombe 972h-	2	2	1	0.500	Fungi;Ascomycota;Schizosaccharomycetaceae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Fungi;-_Dikarya;p_Ascomycota;-_Taphrinomycotina;c_Schizosaccharomycetes;o_Schizosaccharomycetales;f_Schizosaccharomycetaceae;g_Schizosaccharomyces;s_Schizosaccharomyces pombe;-_Schizosaccharomyces pombe 972h-
+k141_79335	1224	phylum	Pseudomonadota	3	3	2	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_32075	1224	phylum	Pseudomonadota	1	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_108732	80864	family	Comamonadaceae	12	12	9	0.750	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_30070	80864	family	Comamonadaceae	2	2	1	0.500	unknown;Pseudomonadota;Comamonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae
+k141_15212	543	family	Enterobacteriaceae	1	1	1	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_37606	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_30122	287	species	Pseudomonas aeruginosa	1	1	1	1.000	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa

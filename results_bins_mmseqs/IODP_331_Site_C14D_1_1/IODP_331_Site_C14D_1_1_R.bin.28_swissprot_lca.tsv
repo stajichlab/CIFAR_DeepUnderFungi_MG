@@ -1,0 +1,292 @@
+k141_479671	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_753065	242619	strain	Porphyromonas gingivalis W83	1	1	1	1.000	unknown;Bacteroidota;Porphyromonadaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Porphyromonadaceae;g_Porphyromonas;s_Porphyromonas gingivalis;-_Porphyromonas gingivalis W83
+k141_296897	2259	family	Thermococcaceae	2	1	1	1.000	unknown;Euryarchaeota;Thermococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;c_Thermococci;o_Thermococcales;f_Thermococcaceae
+k141_480005	71421	strain	Haemophilus influenzae Rd KW20	1	1	1	1.000	unknown;Pseudomonadota;Pasteurellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Haemophilus;s_Haemophilus influenzae;-_Haemophilus influenzae Rd KW20
+k141_266464	266834	strain	Sinorhizobium meliloti 1021	1	1	1	1.000	unknown;Pseudomonadota;Rhizobiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Rhizobiaceae;-_Sinorhizobium/Ensifer group;g_Sinorhizobium;s_Sinorhizobium meliloti;-_Sinorhizobium meliloti 1021
+k141_237176	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_448921	1236	class	Gammaproteobacteria	2	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_966344	224308	strain	Bacillus subtilis subsp. subtilis str. 168	2	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_206129	226186	strain	Bacteroides thetaiotaomicron VPI-5482	1	1	1	1.000	unknown;Bacteroidota;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides thetaiotaomicron;-_Bacteroides thetaiotaomicron VPI-5482
+k141_115768	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_375490	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_162842	2	superkingdom	Bacteria	7	7	6	0.810	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_527489	243232	strain	Methanocaldococcus jannaschii DSM 2661	1	1	1	1.000	unknown;Euryarchaeota;Methanocaldococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanocaldococcaceae;g_Methanocaldococcus;s_Methanocaldococcus jannaschii;-_Methanocaldococcus jannaschii DSM 2661
+k141_861669	0	no rank	unclassified	1	0	0	0.000		
+k141_800888	0	no rank	unclassified	1	0	0	0.000		
+k141_557822	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_436073	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_953443	224308	strain	Bacillus subtilis subsp. subtilis str. 168	2	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_953493	71421	strain	Haemophilus influenzae Rd KW20	1	1	1	1.000	unknown;Pseudomonadota;Pasteurellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Haemophilus;s_Haemophilus influenzae;-_Haemophilus influenzae Rd KW20
+k141_41000	1239	phylum	Bacillota	3	2	1	0.500	unknown;Bacillota;uc_Bacillota	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota
+k141_596121	243274	strain	Thermotoga maritima MSB8	2	2	1	0.500	unknown;Thermotogota;Thermotogaceae	-_cellular organisms;d_Bacteria;p_Thermotogota;c_Thermotogae;o_Thermotogales;f_Thermotogaceae;g_Thermotoga;s_Thermotoga maritima;-_Thermotoga maritima MSB8
+k141_232199	267671	strain	Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130	1	1	1	1.000	unknown;Spirochaetota;Leptospiraceae	-_cellular organisms;d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Leptospirales;f_Leptospiraceae;g_Leptospira;s_Leptospira interrogans;-_Leptospira interrogans serovar Copenhageni;-_Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130
+k141_626878	1239	phylum	Bacillota	3	3	2	0.520	unknown;Bacillota;uc_Bacillota	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota
+k141_232334	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_566381	31979	family	Clostridiaceae	1	1	1	1.000	unknown;Bacillota;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Clostridia;o_Eubacteriales;f_Clostridiaceae
+k141_536498	3028117	class	Cyanophyceae	1	1	1	1.000	unknown;Cyanobacteriota;uc_Cyanophyceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae
+k141_323780	32523	clade	Tetrapoda	2	2	1	0.500	Metazoa;Chordata;unknown	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Deuterostomia;p_Chordata;-_Craniata;-_Vertebrata;-_Gnathostomata;-_Teleostomi;-_Euteleostomi;-_Sarcopterygii;-_Dipnotetrapodomorpha;-_Tetrapoda
+k141_111378	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_354416	1239	phylum	Bacillota	1	1	1	1.000	unknown;Bacillota;uc_Bacillota	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota
+k141_931720	359391	strain	Brucella abortus 2308	2	2	1	0.500	unknown;Pseudomonadota;Brucellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Brucellaceae;-_Brucella/Ochrobactrum group;g_Brucella;s_Brucella abortus;-_Brucella abortus 2308
+k141_834891	83333	strain	Escherichia coli K-12	2	2	2	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12
+k141_227344	186497	strain	Pyrococcus furiosus DSM 3638	2	2	2	1.000	unknown;Euryarchaeota;Thermococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;c_Thermococci;o_Thermococcales;f_Thermococcaceae;g_Pyrococcus;s_Pyrococcus furiosus;-_Pyrococcus furiosus DSM 3638
+k141_956990	131567	no rank	cellular organisms	2	2	2	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_439708	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_865799	194439	strain	Chlorobaculum tepidum TLS	1	1	1	1.000	unknown;Chlorobiota;Chlorobiaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Chlorobiota;c_Chlorobiia;o_Chlorobiales;f_Chlorobiaceae;g_Chlorobaculum;s_Chlorobaculum tepidum;-_Chlorobaculum tepidum TLS
+k141_409885	191411	order	Chlorobiales	1	1	1	1.000	unknown;Chlorobiota;uc_Chlorobiales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Chlorobiota;c_Chlorobiia;o_Chlorobiales
+k141_228028	208964	strain	Pseudomonas aeruginosa PAO1	1	1	1	1.000	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa;-_Pseudomonas aeruginosa PAO1
+k141_896406	91061	class	Bacilli	2	2	1	0.500	unknown;Bacillota;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli
+k141_44912	1224	phylum	Pseudomonadota	2	2	1	0.970	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_440058	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_682014	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_469020	1224	phylum	Pseudomonadota	3	3	2	0.520	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_469054	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_469179	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_134491	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_226637	145260	genus	Methanothermobacter	4	4	3	0.680	unknown;Euryarchaeota;Methanobacteriaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanobacteria;o_Methanobacteriales;f_Methanobacteriaceae;g_Methanothermobacter
+k141_256513	402612	strain	Flavobacterium psychrophilum JIP02/86	1	1	1	1.000	unknown;Bacteroidota;Flavobacteriaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidota;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium psychrophilum;-_Flavobacterium psychrophilum JIP02/86
+k141_408597	1239	phylum	Bacillota	4	4	2	0.500	unknown;Bacillota;uc_Bacillota	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota
+k141_682893	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_621935	572546	strain	Archaeoglobus profundus DSM 5631	2	2	1	0.500	unknown;Euryarchaeota;Archaeoglobaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;c_Archaeoglobi;o_Archaeoglobales;f_Archaeoglobaceae;g_Archaeoglobus;s_Archaeoglobus profundus;-_Archaeoglobus profundus DSM 5631
+k141_155285	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_368626	0	no rank	unclassified	1	0	0	0.000		
+k141_763812	1385	order	Bacillales	1	1	1	1.000	unknown;Bacillota;uc_Bacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales
+k141_399040	186817	family	Bacillaceae	2	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae
+k141_34277	314565	strain	Xanthomonas campestris pv. campestris str. 8004	1	1	1	1.000	unknown;Pseudomonadota;Xanthomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Xanthomonas;s_Xanthomonas campestris;-_Xanthomonas campestris pv. campestris;-_Xanthomonas campestris pv. campestris str. 8004
+k141_308321	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_125771	748727	strain	Clostridium ljungdahlii DSM 13528	3	3	2	0.670	unknown;Bacillota;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Clostridia;o_Eubacteriales;f_Clostridiaceae;g_Clostridium;s_Clostridium ljungdahlii;-_Clostridium ljungdahlii DSM 13528
+k141_886131	243232	strain	Methanocaldococcus jannaschii DSM 2661	1	1	1	1.000	unknown;Euryarchaeota;Methanocaldococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanocaldococcaceae;g_Methanocaldococcus;s_Methanocaldococcus jannaschii;-_Methanocaldococcus jannaschii DSM 2661
+k141_520985	243232	strain	Methanocaldococcus jannaschii DSM 2661	1	1	1	1.000	unknown;Euryarchaeota;Methanocaldococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanocaldococcaceae;g_Methanocaldococcus;s_Methanocaldococcus jannaschii;-_Methanocaldococcus jannaschii DSM 2661
+k141_460350	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_324223	1224	phylum	Pseudomonadota	2	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_354829	224326	strain	Borreliella burgdorferi B31	2	2	1	0.500	unknown;Spirochaetota;Borreliaceae	-_cellular organisms;d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Spirochaetales;f_Borreliaceae;g_Borreliella;s_Borreliella burgdorferi;-_Borreliella burgdorferi B31
+k141_689834	234267	isolate	Candidatus Solibacter usitatus Ellin6076	2	2	1	0.500	unknown;Acidobacteriota;Solibacteraceae	-_cellular organisms;d_Bacteria;p_Acidobacteriota;c_Terriglobia;o_Bryobacterales;f_Solibacteraceae;g_Candidatus Solibacter;s_Candidatus Solibacter usitatus;-_Candidatus Solibacter usitatus Ellin6076
+k141_81465	272843	strain	Pasteurella multocida subsp. multocida str. Pm70	1	1	1	1.000	unknown;Pseudomonadota;Pasteurellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Pasteurella;s_Pasteurella multocida;-_Pasteurella multocida subsp. multocida;-_Pasteurella multocida subsp. multocida str. Pm70
+k141_871781	224308	strain	Bacillus subtilis subsp. subtilis str. 168	3	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_628642	188937	strain	Methanosarcina acetivorans C2A	1	1	1	1.000	unknown;Euryarchaeota;Methanosarcinaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Stenosarchaea group;c_Methanomicrobia;o_Methanosarcinales;f_Methanosarcinaceae;g_Methanosarcina;s_Methanosarcina acetivorans;-_Methanosarcina acetivorans C2A
+k141_963405	3702	species	Arabidopsis thaliana	1	1	1	1.000	Viridiplantae;Streptophyta;Brassicaceae	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana
+k141_658956	2	superkingdom	Bacteria	6	6	4	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_750338	1883	genus	Streptomyces	2	2	1	0.500	unknown;Actinomycetota;Streptomycetaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Streptomycetales;f_Streptomycetaceae;g_Streptomyces
+k141_598258	71421	strain	Haemophilus influenzae Rd KW20	1	1	1	1.000	unknown;Pseudomonadota;Pasteurellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Haemophilus;s_Haemophilus influenzae;-_Haemophilus influenzae Rd KW20
+k141_95887	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_642990	186802	order	Eubacteriales	2	2	1	0.500	unknown;Bacillota;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Clostridia;o_Eubacteriales
+k141_4554	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_278396	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_764810	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_704306	224325	strain	Archaeoglobus fulgidus DSM 4304	2	2	1	0.500	unknown;Euryarchaeota;Archaeoglobaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;c_Archaeoglobi;o_Archaeoglobales;f_Archaeoglobaceae;g_Archaeoglobus;s_Archaeoglobus fulgidus;-_Archaeoglobus fulgidus DSM 4304
+k141_917128	2	superkingdom	Bacteria	10	9	9	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_430700	1481960	genus	Peptoclostridium	1	1	1	1.000	unknown;Bacillota;Peptostreptococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Clostridia;o_Eubacteriales;f_Peptostreptococcaceae;g_Peptoclostridium
+k141_704696	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_704765	1224	phylum	Pseudomonadota	1	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_653454	2259	family	Thermococcaceae	1	1	1	1.000	unknown;Euryarchaeota;Thermococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;c_Thermococci;o_Thermococcales;f_Thermococcaceae
+k141_228311	394	strain	Sinorhizobium fredii NGR234	1	1	1	1.000	unknown;Pseudomonadota;Rhizobiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Rhizobiaceae;-_Sinorhizobium/Ensifer group;g_Sinorhizobium;-_Sinorhizobium fredii group;s_Sinorhizobium fredii;-_Sinorhizobium fredii NGR234
+k141_592459	0	no rank	unclassified	1	0	0	0.000		
+k141_380343	224308	strain	Bacillus subtilis subsp. subtilis str. 168	1	1	1	1.000	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_106409	188787	class	Deinococci	2	2	1	0.500	unknown;Deinococcota;uc_Deinococci	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Deinococcota;c_Deinococci
+k141_197635	2	superkingdom	Bacteria	6	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_684505	213422	family	Geobacteraceae	1	1	1	1.000	unknown;Pseudomonadota;Geobacteraceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfuromonadales;f_Geobacteraceae
+k141_471455	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_532412	224324	strain	Aquifex aeolicus VF5	1	1	1	1.000	unknown;Aquificae;Aquificaceae	-_cellular organisms;d_Bacteria;p_Aquificae;c_Aquificae;o_Aquificales;f_Aquificaceae;g_Aquifex;s_Aquifex aeolicus;-_Aquifex aeolicus VF5
+k141_866583	2	superkingdom	Bacteria	3	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_267336	1783272	clade	Terrabacteria group	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_784755	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_905927	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_237897	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_906264	300852	strain	Thermus thermophilus HB8	2	2	1	0.500	unknown;Deinococcota;Thermaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Deinococcota;c_Deinococci;o_Thermales;f_Thermaceae;g_Thermus;s_Thermus thermophilus;-_Thermus thermophilus HB8
+k141_54780	1224	phylum	Pseudomonadota	2	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_420387	670	species	Vibrio parahaemolyticus	1	1	1	1.000	unknown;Pseudomonadota;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;-_Vibrio harveyi group;s_Vibrio parahaemolyticus
+k141_541860	2283794	clade	Methanomada group	1	1	1	1.000	unknown;Euryarchaeota;unknown	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group
+k141_663264	1783272	clade	Terrabacteria group	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_846179	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_118021	543	family	Enterobacteriaceae	1	1	1	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_330722	295405	strain	Bacteroides fragilis YCH46	1	1	1	1.000	unknown;Bacteroidota;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides fragilis;-_Bacteroides fragilis YCH46
+k141_908260	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_787264	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_422853	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_26963	3702	species	Arabidopsis thaliana	1	1	1	1.000	Viridiplantae;Streptophyta;Brassicaceae	-_cellular organisms;d_Eukaryota;k_Viridiplantae;p_Streptophyta;-_Streptophytina;-_Embryophyta;-_Tracheophyta;-_Euphyllophyta;-_Spermatophyta;c_Magnoliopsida;-_Mesangiospermae;-_eudicotyledons;-_Gunneridae;-_Pentapetalae;-_rosids;-_malvids;o_Brassicales;f_Brassicaceae;-_Camelineae;g_Arabidopsis;s_Arabidopsis thaliana
+k141_270492	1485	genus	Clostridium	1	1	1	1.000	unknown;Bacillota;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Clostridia;o_Eubacteriales;f_Clostridiaceae;g_Clostridium
+k141_88472	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_452783	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_57579	224308	strain	Bacillus subtilis subsp. subtilis str. 168	2	2	1	0.930	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_897148	68336	clade	Bacteroidetes/Chlorobi group	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group
+k141_745239	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_381280	2207	genus	Methanosarcina	1	1	1	1.000	unknown;Euryarchaeota;Methanosarcinaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Stenosarchaea group;c_Methanomicrobia;o_Methanosarcinales;f_Methanosarcinaceae;g_Methanosarcina
+k141_320308	0	no rank	unclassified	1	0	0	0.000		
+k141_533206	243274	strain	Thermotoga maritima MSB8	1	1	1	1.000	unknown;Thermotogota;Thermotogaceae	-_cellular organisms;d_Bacteria;p_Thermotogota;c_Thermotogae;o_Thermotogales;f_Thermotogaceae;g_Thermotoga;s_Thermotoga maritima;-_Thermotoga maritima MSB8
+k141_593822	208964	strain	Pseudomonas aeruginosa PAO1	2	2	1	0.500	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa;-_Pseudomonas aeruginosa PAO1
+k141_259770	878	species	Solidesulfovibrio fructosivorans	1	1	1	1.000	unknown;Pseudomonadota;Desulfovibrionaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfovibrionales;f_Desulfovibrionaceae;g_Solidesulfovibrio;s_Solidesulfovibrio fructosivorans
+k141_259785	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_350998	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_320825	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_878727	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_88739	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_301270	235279	strain	Helicobacter hepaticus ATCC 51449	1	1	1	1.000	unknown;Pseudomonadota;Helicobacteraceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Epsilonproteobacteria;o_Campylobacterales;f_Helicobacteraceae;g_Helicobacter;s_Helicobacter hepaticus;-_Helicobacter hepaticus ATCC 51449
+k141_27694	1239	phylum	Bacillota	5	4	2	0.650	unknown;Bacillota;uc_Bacillota	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota
+k141_697024	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_423625	131567	no rank	cellular organisms	4	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_362108	976	phylum	Bacteroidota	1	1	1	1.000	unknown;Bacteroidota;uc_Bacteroidota	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidota
+k141_89239	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_667018	543	family	Enterobacteriaceae	1	1	1	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_819175	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_214874	191411	order	Chlorobiales	3	3	2	0.670	unknown;Chlorobiota;uc_Chlorobiales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Chlorobiota;c_Chlorobiia;o_Chlorobiales
+k141_914142	0	no rank	unclassified	1	0	0	0.000		
+k141_914368	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_306464	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_245874	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_458636	243275	strain	Treponema denticola ATCC 35405	1	1	1	1.000	unknown;Spirochaetota;Treponemataceae	-_cellular organisms;d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Spirochaetales;f_Treponemataceae;g_Treponema;s_Treponema denticola;-_Treponema denticola ATCC 35405
+k141_154991	91061	class	Bacilli	1	1	1	1.000	unknown;Bacillota;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli
+k141_94372	186497	strain	Pyrococcus furiosus DSM 3638	3	3	2	0.520	unknown;Euryarchaeota;Thermococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;c_Thermococci;o_Thermococcales;f_Thermococcaceae;g_Pyrococcus;s_Pyrococcus furiosus;-_Pyrococcus furiosus DSM 3638
+k141_702360	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_641589	157	genus	Treponema	2	2	1	0.500	unknown;Spirochaetota;Treponemataceae	-_cellular organisms;d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Spirochaetales;f_Treponemataceae;g_Treponema
+k141_168850	1385	order	Bacillales	1	1	1	1.000	unknown;Bacillota;uc_Bacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales
+k141_382209	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_320944	2	superkingdom	Bacteria	7	7	6	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_563976	131567	no rank	cellular organisms	6	6	6	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_716304	0	no rank	unclassified	1	0	0	0.000		
+k141_382911	653685	species group	Bacillus subtilis group	1	1	1	1.000	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group
+k141_503483	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_868388	267377	strain	Methanococcus maripaludis S2	1	1	1	1.000	unknown;Euryarchaeota;Methanococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanococcaceae;g_Methanococcus;s_Methanococcus maripaludis;-_Methanococcus maripaludis S2
+k141_442629	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_199916	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_868560	243276	strain	Treponema pallidum subsp. pallidum str. Nichols	2	2	1	0.500	unknown;Spirochaetota;Treponemataceae	-_cellular organisms;d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Spirochaetales;f_Treponemataceae;g_Treponema;s_Treponema pallidum;-_Treponema pallidum subsp. pallidum;-_Treponema pallidum subsp. pallidum str. Nichols
+k141_17451	71421	strain	Haemophilus influenzae Rd KW20	1	1	1	1.000	unknown;Pseudomonadota;Pasteurellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pasteurellales;f_Pasteurellaceae;g_Haemophilus;s_Haemophilus influenzae;-_Haemophilus influenzae Rd KW20
+k141_17491	28890	phylum	Euryarchaeota	1	1	1	1.000	unknown;Euryarchaeota;uc_Euryarchaeota	-_cellular organisms;d_Archaea;p_Euryarchaeota
+k141_534835	267377	strain	Methanococcus maripaludis S2	4	4	2	0.500	unknown;Euryarchaeota;Methanococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanococcaceae;g_Methanococcus;s_Methanococcus maripaludis;-_Methanococcus maripaludis S2
+k141_47835	186802	order	Eubacteriales	1	1	1	1.000	unknown;Bacillota;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Clostridia;o_Eubacteriales
+k141_595277	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_565114	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_231739	391953	species	Aquincola tertiaricarbonis	1	1	1	1.000	unknown;Pseudomonadota;Sphaerotilaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Sphaerotilaceae;g_Aquincola;s_Aquincola tertiaricarbonis
+k141_808602	191411	order	Chlorobiales	2	1	1	1.000	unknown;Chlorobiota;uc_Chlorobiales	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Chlorobiota;c_Chlorobiia;o_Chlorobiales
+k141_595927	186817	family	Bacillaceae	2	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae
+k141_607998	1239	phylum	Bacillota	4	3	2	0.960	unknown;Bacillota;uc_Bacillota	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota
+k141_669267	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_183061	186801	class	Clostridia	1	1	1	1.000	unknown;Bacillota;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Clostridia
+k141_244043	2259	family	Thermococcaceae	1	1	1	1.000	unknown;Euryarchaeota;Thermococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;c_Thermococci;o_Thermococcales;f_Thermococcaceae
+k141_639299	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_730832	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_882916	1385	order	Bacillales	2	2	1	0.500	unknown;Bacillota;uc_Bacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales
+k141_396891	1422	species	Geobacillus stearothermophilus	1	1	1	1.000	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Geobacillus;s_Geobacillus stearothermophilus
+k141_366599	28890	phylum	Euryarchaeota	3	3	2	0.520	unknown;Euryarchaeota;uc_Euryarchaeota	-_cellular organisms;d_Archaea;p_Euryarchaeota
+k141_701189	69541	order	Desulfuromonadales	2	1	1	1.000	unknown;Pseudomonadota;uc_Desulfuromonadales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfuromonadales
+k141_298522	0	no rank	unclassified	1	0	0	0.000		
+k141_876153	183417	species	Proteus hauseri	1	1	1	1.000	unknown;Pseudomonadota;Morganellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Morganellaceae;g_Proteus;s_Proteus hauseri
+k141_55138	224308	strain	Bacillus subtilis subsp. subtilis str. 168	1	1	1	1.000	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_967863	186802	order	Eubacteriales	1	1	1	1.000	unknown;Bacillota;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Clostridia;o_Eubacteriales
+k141_572362	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_207587	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_55405	2157	superkingdom	Archaea	2	2	1	0.500	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_299090	28890	phylum	Euryarchaeota	2	2	1	0.500	unknown;Euryarchaeota;uc_Euryarchaeota	-_cellular organisms;d_Archaea;p_Euryarchaeota
+k141_602821	178306	strain	Pyrobaculum aerophilum str. IM2	1	1	1	1.000	unknown;Crenarchaeota;Thermoproteaceae	-_cellular organisms;d_Archaea;-_TACK group;p_Crenarchaeota;c_Thermoprotei;o_Thermoproteales;f_Thermoproteaceae;g_Pyrobaculum;s_Pyrobaculum aerophilum;-_Pyrobaculum aerophilum str. IM2
+k141_724762	1224	phylum	Pseudomonadota	3	3	2	0.520	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_264085	1783272	clade	Terrabacteria group	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_20850	28890	phylum	Euryarchaeota	2	2	2	1.000	unknown;Euryarchaeota;uc_Euryarchaeota	-_cellular organisms;d_Archaea;p_Euryarchaeota
+k141_902642	1783272	clade	Terrabacteria group	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_142777	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_203568	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_234857	191412	family	Chlorobiaceae	2	2	1	0.500	unknown;Chlorobiota;Chlorobiaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Chlorobiota;c_Chlorobiia;o_Chlorobiales;f_Chlorobiaceae
+k141_964078	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_142875	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_842533	0	no rank	unclassified	1	0	0	0.000		
+k141_21131	543	family	Enterobacteriaceae	1	1	1	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae
+k141_129321	186497	strain	Pyrococcus furiosus DSM 3638	1	1	1	1.000	unknown;Euryarchaeota;Thermococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;c_Thermococci;o_Thermococcales;f_Thermococcaceae;g_Pyrococcus;s_Pyrococcus furiosus;-_Pyrococcus furiosus DSM 3638
+k141_373062	2	superkingdom	Bacteria	6	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_616141	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_920166	28221	class	Deltaproteobacteria	2	2	1	0.500	unknown;Pseudomonadota;uc_Deltaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria
+k141_129619	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_829428	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_920799	1385	order	Bacillales	1	1	1	1.000	unknown;Bacillota;uc_Bacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales
+k141_494895	441768	strain	Acholeplasma laidlawii PG-8A	1	1	1	1.000	unknown;Mycoplasmatota;Acholeplasmataceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Mycoplasmatota;c_Mollicutes;o_Acholeplasmatales;f_Acholeplasmataceae;g_Acholeplasma;s_Acholeplasma laidlawii;-_Acholeplasma laidlawii PG-8A
+k141_586128	0	no rank	unclassified	1	0	0	0.000		
+k141_616936	837	species	Porphyromonas gingivalis	1	1	1	1.000	unknown;Bacteroidota;Porphyromonadaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Porphyromonadaceae;g_Porphyromonas;s_Porphyromonas gingivalis
+k141_370689	243231	strain	Geobacter sulfurreducens PCA	2	2	1	0.500	unknown;Pseudomonadota;Geobacteraceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfuromonadales;f_Geobacteraceae;g_Geobacter;s_Geobacter sulfurreducens;-_Geobacter sulfurreducens PCA
+k141_400785	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_796110	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_97235	670	species	Vibrio parahaemolyticus	1	1	1	1.000	unknown;Pseudomonadota;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;-_Vibrio harveyi group;s_Vibrio parahaemolyticus
+k141_97253	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_127659	1111708	no rank	Synechocystis sp. PCC 6803 substr. Kazusa	2	2	1	0.500	unknown;Cyanobacteriota;Merismopediaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Merismopediaceae;g_Synechocystis;-_unclassified Synechocystis;s_Synechocystis sp. PCC 6803;-_Synechocystis sp. PCC 6803 substr. Kazusa
+k141_614667	224308	strain	Bacillus subtilis subsp. subtilis str. 168	1	1	1	1.000	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_766419	224308	strain	Bacillus subtilis subsp. subtilis str. 168	2	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_492927	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_706011	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_617471	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_282480	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_344014	1485	genus	Clostridium	2	1	1	1.000	unknown;Bacillota;Clostridiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Clostridia;o_Eubacteriales;f_Clostridiaceae;g_Clostridium
+k141_739217	1239	phylum	Bacillota	2	2	1	0.500	unknown;Bacillota;uc_Bacillota	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota
+k141_617851	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_769953	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_405002	91061	class	Bacilli	1	1	1	1.000	unknown;Bacillota;uc_Bacilli	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli
+k141_101465	670	species	Vibrio parahaemolyticus	1	1	1	1.000	unknown;Pseudomonadota;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;-_Vibrio harveyi group;s_Vibrio parahaemolyticus
+k141_253237	1224	phylum	Pseudomonadota	2	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_831001	1239	phylum	Bacillota	2	2	1	0.500	unknown;Bacillota;uc_Bacillota	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota
+k141_955045	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_407571	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_955050	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_316520	1224	phylum	Pseudomonadota	1	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_133906	246194	strain	Carboxydothermus hydrogenoformans Z-2901	1	1	1	1.000	unknown;Bacillota;Thermoanaerobacteraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Clostridia;o_Thermoanaerobacterales;f_Thermoanaerobacteraceae;g_Carboxydothermus;s_Carboxydothermus hydrogenoformans;-_Carboxydothermus hydrogenoformans Z-2901
+k141_164849	2260	genus	Pyrococcus	2	2	1	0.920	unknown;Euryarchaeota;Thermococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;c_Thermococci;o_Thermococcales;f_Thermococcaceae;g_Pyrococcus
+k141_681749	1783272	clade	Terrabacteria group	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_164859	186801	class	Clostridia	1	1	1	1.000	unknown;Bacillota;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Clostridia
+k141_134115	1239	phylum	Bacillota	1	1	1	1.000	unknown;Bacillota;uc_Bacillota	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota
+k141_833758	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_454436	1224	phylum	Pseudomonadota	1	1	1	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_363448	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_425128	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_454780	1528	species	Eubacterium barkeri	2	2	1	0.500	unknown;Bacillota;Eubacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Clostridia;o_Eubacteriales;f_Eubacteriaceae;g_Eubacterium;s_Eubacterium barkeri
+k141_333717	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_576805	435591	strain	Parabacteroides distasonis ATCC 8503	1	1	1	1.000	unknown;Bacteroidota;Tannerellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Parabacteroides;s_Parabacteroides distasonis;-_Parabacteroides distasonis ATCC 8503
+k141_728900	2759	superkingdom	Eukaryota	4	3	2	0.670	uc_Eukaryota;uc_Eukaryota;uc_Eukaryota	-_cellular organisms;d_Eukaryota
+k141_516619	186817	family	Bacillaceae	4	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae
+k141_881243	2	superkingdom	Bacteria	5	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_638272	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_178004	2260	genus	Pyrococcus	1	1	1	1.000	unknown;Euryarchaeota;Thermococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;c_Thermococci;o_Thermococcales;f_Thermococcaceae;g_Pyrococcus
+k141_846959	0	no rank	unclassified	1	0	0	0.000		
+k141_178071	0	no rank	unclassified	1	0	0	0.000		
+k141_907406	1783272	clade	Terrabacteria group	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_239454	1111708	no rank	Synechocystis sp. PCC 6803 substr. Kazusa	1	1	1	1.000	unknown;Cyanobacteriota;Merismopediaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Merismopediaceae;g_Synechocystis;-_unclassified Synechocystis;s_Synechocystis sp. PCC 6803;-_Synechocystis sp. PCC 6803 substr. Kazusa
+k141_208368	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_512411	226186	strain	Bacteroides thetaiotaomicron VPI-5482	1	1	1	1.000	unknown;Bacteroidota;Bacteroidaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Bacteroides;s_Bacteroides thetaiotaomicron;-_Bacteroides thetaiotaomicron VPI-5482
+k141_269166	13	genus	Dictyoglomus	2	1	1	1.000	unknown;Dictyoglomi;Dictyoglomaceae	-_cellular organisms;d_Bacteria;p_Dictyoglomi;c_Dictyoglomia;o_Dictyoglomales;f_Dictyoglomaceae;g_Dictyoglomus
+k141_695438	224308	strain	Bacillus subtilis subsp. subtilis str. 168	1	1	1	1.000	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_26163	1239	phylum	Bacillota	2	2	1	0.500	unknown;Bacillota;uc_Bacillota	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota
+k141_586157	136	order	Spirochaetales	4	4	2	0.500	unknown;Spirochaetota;uc_Spirochaetales	-_cellular organisms;d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Spirochaetales
+k141_738285	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_586176	224308	strain	Bacillus subtilis subsp. subtilis str. 168	2	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_617016	91347	order	Enterobacterales	1	1	1	1.000	unknown;Pseudomonadota;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales
+k141_647355	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_525733	1239	phylum	Bacillota	6	6	3	0.500	unknown;Bacillota;uc_Bacillota	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota
+k141_312984	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_343460	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_829932	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_617458	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_888667	1279	genus	Staphylococcus	2	2	1	0.500	unknown;Bacillota;Staphylococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus
+k141_645312	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_584450	187420	strain	Methanothermobacter thermautotrophicus str. Delta H	1	1	1	1.000	unknown;Euryarchaeota;Methanobacteriaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanobacteria;o_Methanobacteriales;f_Methanobacteriaceae;g_Methanothermobacter;s_Methanothermobacter thermautotrophicus;-_Methanothermobacter thermautotrophicus str. Delta H
+k141_523785	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_159347	136	order	Spirochaetales	2	2	1	0.500	unknown;Spirochaetota;uc_Spirochaetales	-_cellular organisms;d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Spirochaetales
+k141_584646	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_37294	186801	class	Clostridia	1	1	1	1.000	unknown;Bacillota;uc_Clostridia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Clostridia
+k141_676271	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_68160	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_463692	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_832063	83333	strain	Escherichia coli K-12	1	1	1	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12
+k141_832069	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_771294	2759	superkingdom	Eukaryota	1	1	1	1.000	uc_Eukaryota;uc_Eukaryota;uc_Eukaryota	-_cellular organisms;d_Eukaryota
+k141_893440	224308	strain	Bacillus subtilis subsp. subtilis str. 168	1	1	1	1.000	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_225111	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_133449	2	superkingdom	Bacteria	10	10	9	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_559063	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_802196	1385	order	Bacillales	1	1	1	1.000	unknown;Bacillota;uc_Bacillales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales
+k141_954767	2157	superkingdom	Archaea	1	1	1	1.000	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_316268	1236	class	Gammaproteobacteria	2	2	1	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_881311	28221	class	Deltaproteobacteria	2	1	1	1.000	unknown;Pseudomonadota;uc_Deltaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria
+k141_455798	2759	superkingdom	Eukaryota	2	1	1	1.000	uc_Eukaryota;uc_Eukaryota;uc_Eukaryota	-_cellular organisms;d_Eukaryota
+k141_538510	1111708	no rank	Synechocystis sp. PCC 6803 substr. Kazusa	2	2	1	0.500	unknown;Cyanobacteriota;Merismopediaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Merismopediaceae;g_Synechocystis;-_unclassified Synechocystis;s_Synechocystis sp. PCC 6803;-_Synechocystis sp. PCC 6803 substr. Kazusa
+k141_811643	1111708	no rank	Synechocystis sp. PCC 6803 substr. Kazusa	1	1	1	1.000	unknown;Cyanobacteriota;Merismopediaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Merismopediaceae;g_Synechocystis;-_unclassified Synechocystis;s_Synechocystis sp. PCC 6803;-_Synechocystis sp. PCC 6803 substr. Kazusa
+k141_933657	224308	strain	Bacillus subtilis subsp. subtilis str. 168	2	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_265169	338966	strain	Pelobacter propionicus DSM 2379	1	1	1	1.000	unknown;Pseudomonadota;Desulfuromonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfuromonadales;f_Desulfuromonadaceae;g_Pelobacter;s_Pelobacter propionicus;-_Pelobacter propionicus DSM 2379
+k141_326360	224308	strain	Bacillus subtilis subsp. subtilis str. 168	1	1	1	1.000	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_752139	1224	phylum	Pseudomonadota	3	3	2	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_175004	243274	strain	Thermotoga maritima MSB8	1	1	1	1.000	unknown;Thermotogota;Thermotogaceae	-_cellular organisms;d_Bacteria;p_Thermotogota;c_Thermotogae;o_Thermotogales;f_Thermotogaceae;g_Thermotoga;s_Thermotoga maritima;-_Thermotoga maritima MSB8
+k141_509122	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_600177	3028117	class	Cyanophyceae	1	1	1	1.000	unknown;Cyanobacteriota;uc_Cyanophyceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae
+k141_540135	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms

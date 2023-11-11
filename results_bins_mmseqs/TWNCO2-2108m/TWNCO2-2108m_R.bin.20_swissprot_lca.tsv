@@ -1,0 +1,75 @@
+k141_83886	1224	phylum	Pseudomonadota	6	6	4	0.790	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_98506	243277	strain	Vibrio cholerae O1 biovar El Tor str. N16961	2	2	1	0.500	unknown;Pseudomonadota;Vibrionaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Vibrionales;f_Vibrionaceae;g_Vibrio;s_Vibrio cholerae;-_Vibrio cholerae O1;-_Vibrio cholerae O1 biovar El Tor;-_Vibrio cholerae O1 biovar El Tor str. N16961
+k141_80403	2	superkingdom	Bacteria	10	9	8	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_65798	1224	phylum	Pseudomonadota	14	13	7	0.500	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_25785	2	superkingdom	Bacteria	18	18	13	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_43969	1224	phylum	Pseudomonadota	51	49	29	0.590	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_98674	2	superkingdom	Bacteria	5	5	4	0.990	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_14830	1236	class	Gammaproteobacteria	2	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_36897	192222	strain	Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819	3	3	2	0.670	unknown;Pseudomonadota;Campylobacteraceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Epsilonproteobacteria;o_Campylobacterales;f_Campylobacteraceae;g_Campylobacter;s_Campylobacter jejuni;-_Campylobacter jejuni subsp. jejuni;-_Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819
+k141_29573	2	superkingdom	Bacteria	8	7	6	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_61490	1224	phylum	Pseudomonadota	17	15	8	0.530	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_28307	1224	phylum	Pseudomonadota	16	16	10	0.630	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_72905	2	superkingdom	Bacteria	18	18	12	0.650	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_17515	2	superkingdom	Bacteria	9	9	6	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_13725	83333	strain	Escherichia coli K-12	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12
+k141_1467	208964	strain	Pseudomonas aeruginosa PAO1	1	1	1	1.000	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa;-_Pseudomonas aeruginosa PAO1
+k141_28630	338963	strain	Syntrophotalea carbinolica DSM 2380	5	4	3	0.970	unknown;Pseudomonadota;Syntrophotaleaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfuromonadales;f_Syntrophotaleaceae;g_Syntrophotalea;s_Syntrophotalea carbinolica;-_Syntrophotalea carbinolica DSM 2380
+k141_32519	1224	phylum	Pseudomonadota	53	51	33	0.650	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_54561	2	superkingdom	Bacteria	20	17	12	0.690	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_94756	28221	class	Deltaproteobacteria	10	10	6	0.660	unknown;Pseudomonadota;uc_Deltaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria
+k141_106155	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_84251	1224	phylum	Pseudomonadota	7	7	6	0.860	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_69763	287	species	Pseudomonas aeruginosa	2	1	1	1.000	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa
+k141_84264	1224	phylum	Pseudomonadota	30	27	17	0.630	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_22264	2	superkingdom	Bacteria	31	30	23	0.770	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_11579	1224	phylum	Pseudomonadota	30	29	16	0.570	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_15039	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_95477	224308	strain	Bacillus subtilis subsp. subtilis str. 168	2	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_29923	69541	order	Desulfuromonadales	8	8	4	0.500	unknown;Pseudomonadota;uc_Desulfuromonadales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfuromonadales
+k141_59182	1224	phylum	Pseudomonadota	9	8	8	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_19591	1224	phylum	Pseudomonadota	16	16	8	0.500	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_34778	2	superkingdom	Bacteria	13	13	10	0.770	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_89063	69541	order	Desulfuromonadales	5	4	3	0.750	unknown;Pseudomonadota;uc_Desulfuromonadales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfuromonadales
+k141_107591	338963	strain	Syntrophotalea carbinolica DSM 2380	34	34	21	0.620	unknown;Pseudomonadota;Syntrophotaleaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfuromonadales;f_Syntrophotaleaceae;g_Syntrophotalea;s_Syntrophotalea carbinolica;-_Syntrophotalea carbinolica DSM 2380
+k141_5577	186817	family	Bacillaceae	3	3	2	0.670	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae
+k141_92649	1224	phylum	Pseudomonadota	65	55	34	0.620	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_31033	1224	phylum	Pseudomonadota	19	17	11	0.630	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_60558	1224	phylum	Pseudomonadota	29	25	17	0.650	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_42248	69541	order	Desulfuromonadales	13	13	7	0.540	unknown;Pseudomonadota;uc_Desulfuromonadales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfuromonadales
+k141_55370	1224	phylum	Pseudomonadota	20	20	10	0.500	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_16867	2	superkingdom	Bacteria	17	15	13	0.870	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_49135	224308	strain	Bacillus subtilis subsp. subtilis str. 168	3	2	1	0.920	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_5886	1224	phylum	Pseudomonadota	84	79	49	0.610	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_42577	1773	species	Mycobacterium tuberculosis	2	2	1	0.500	unknown;Actinomycetota;Mycobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;-_Mycobacterium tuberculosis complex;s_Mycobacterium tuberculosis
+k141_13284	28221	class	Deltaproteobacteria	11	10	6	0.600	unknown;Pseudomonadota;uc_Deltaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria
+k141_53607	1224	phylum	Pseudomonadota	50	47	33	0.700	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_35785	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_100411	1224	phylum	Pseudomonadota	71	68	46	0.660	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_42922	1224	phylum	Pseudomonadota	11	10	6	0.600	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_115799	1224	phylum	Pseudomonadota	7	7	4	0.570	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_66321	2	superkingdom	Bacteria	26	26	22	0.840	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_48211	224308	strain	Bacillus subtilis subsp. subtilis str. 168	2	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_81098	2	superkingdom	Bacteria	40	38	29	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_26365	224308	strain	Bacillus subtilis subsp. subtilis str. 168	4	4	2	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_70424	1224	phylum	Pseudomonadota	3	3	2	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_33742	69541	order	Desulfuromonadales	43	40	23	0.580	unknown;Pseudomonadota;uc_Desulfuromonadales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfuromonadales
+k141_41025	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_103167	1224	phylum	Pseudomonadota	32	30	19	0.620	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_81138	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_11840	1224	phylum	Pseudomonadota	69	65	43	0.650	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_66574	2	superkingdom	Bacteria	5	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_66709	338963	strain	Syntrophotalea carbinolica DSM 2380	2	2	1	0.940	unknown;Pseudomonadota;Syntrophotaleaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfuromonadales;f_Syntrophotaleaceae;g_Syntrophotalea;s_Syntrophotalea carbinolica;-_Syntrophotalea carbinolica DSM 2380
+k141_63516	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_81464	1224	phylum	Pseudomonadota	18	16	11	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_8520	2	superkingdom	Bacteria	55	52	41	0.780	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_107275	1224	phylum	Pseudomonadota	21	21	14	0.650	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_81643	1236	class	Gammaproteobacteria	4	4	2	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_110763	1224	phylum	Pseudomonadota	12	12	12	1.000	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_16177	1224	phylum	Pseudomonadota	18	18	10	0.500	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_41758	1224	phylum	Pseudomonadota	10	7	6	0.860	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_24819	1224	phylum	Pseudomonadota	79	75	45	0.610	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_97160	2795389	species	Denitromonas sp. IR12	2	2	1	0.930	unknown;Pseudomonadota;Rhodocyclaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Rhodocyclales;f_Rhodocyclaceae;g_Denitromonas;-_unclassified Denitromonas;s_Denitromonas sp. IR12
+k141_50465	1224	phylum	Pseudomonadota	6	6	4	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_101893	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3201	2	superkingdom	Bacteria	14	12	10	0.900	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria

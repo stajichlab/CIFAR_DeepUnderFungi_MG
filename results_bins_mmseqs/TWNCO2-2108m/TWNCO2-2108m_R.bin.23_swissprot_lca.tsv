@@ -1,0 +1,38 @@
+k141_28437	0	no rank	unclassified	1	0	0	0.000		
+k141_49844	1224	phylum	Pseudomonadota	3	3	2	0.510	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_28608	83333	strain	Escherichia coli K-12	1	1	1	1.000	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12
+k141_83699	10680	species	Enterobacteria phage P4	2	2	1	0.500	Heunggongvirae;Uroviricota;unknown	d_Viruses;-_Duplodnaviria;k_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;-_unclassified Caudoviricetes;s_Enterobacteria phage P4
+k141_18158	0	no rank	unclassified	1	0	0	0.000		
+k141_21398	0	no rank	unclassified	1	0	0	0.000		
+k141_1932	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_2895	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_103992	309797	species	Chrysiogenes arsenatis	1	1	1	1.000	unknown;Chrysiogenetes;Chrysiogenaceae	-_cellular organisms;d_Bacteria;p_Chrysiogenetes;c_Chrysiogenetes;o_Chrysiogenales;f_Chrysiogenaceae;g_Chrysiogenes;s_Chrysiogenes arsenatis
+k141_53132	208964	strain	Pseudomonas aeruginosa PAO1	2	2	1	0.500	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_Pseudomonas aeruginosa group;s_Pseudomonas aeruginosa;-_Pseudomonas aeruginosa PAO1
+k141_115300	342108	strain	Magnetospirillum magneticum AMB-1	1	1	1	1.000	unknown;Pseudomonadota;Rhodospirillaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodospirillales;f_Rhodospirillaceae;g_Magnetospirillum;s_Magnetospirillum magneticum;-_Magnetospirillum magneticum AMB-1
+k141_49233	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_75362	1773	species	Mycobacterium tuberculosis	1	1	1	1.000	unknown;Actinomycetota;Mycobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;-_Mycobacterium tuberculosis complex;s_Mycobacterium tuberculosis
+k141_20373	1224	phylum	Pseudomonadota	3	3	2	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_28318	1236	class	Gammaproteobacteria	2	2	2	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_100752	381666	strain	Cupriavidus necator H16	1	1	1	1.000	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Cupriavidus;s_Cupriavidus necator;-_Cupriavidus necator H16
+k141_10110	623	species	Shigella flexneri	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Shigella;s_Shigella flexneri
+k141_39222	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_99357	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_5012	131567	no rank	cellular organisms	2	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_38062	228410	strain	Nitrosomonas europaea ATCC 19718	2	2	1	0.500	unknown;Pseudomonadota;Nitrosomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Nitrosomonadales;f_Nitrosomonadaceae;g_Nitrosomonas;s_Nitrosomonas europaea;-_Nitrosomonas europaea ATCC 19718
+k141_19475	1111708	no rank	Synechocystis sp. PCC 6803 substr. Kazusa	2	2	1	0.500	unknown;Cyanobacteriota;Merismopediaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteriota/Melainabacteria group;p_Cyanobacteriota;c_Cyanophyceae;o_Synechococcales;f_Merismopediaceae;g_Synechocystis;-_unclassified Synechocystis;s_Synechocystis sp. PCC 6803;-_Synechocystis sp. PCC 6803 substr. Kazusa
+k141_27000	119060	family	Burkholderiaceae	3	3	2	0.670	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae
+k141_99586	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_959	1236	class	Gammaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_16110	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_12571	0	no rank	unclassified	1	0	0	0.000		
+k141_88946	6072	clade	Eumetazoa	1	1	1	1.000	Metazoa;unknown;unknown	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa
+k141_109457	1239	phylum	Bacillota	1	1	1	1.000	unknown;Bacillota;uc_Bacillota	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota
+k141_80550	1773	species	Mycobacterium tuberculosis	2	2	1	0.500	unknown;Actinomycetota;Mycobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;-_Mycobacterium tuberculosis complex;s_Mycobacterium tuberculosis
+k141_22156	1236	class	Gammaproteobacteria	6	4	2	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_70036	382	species	Sinorhizobium meliloti	2	2	1	0.500	unknown;Pseudomonadota;Rhizobiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Rhizobiaceae;-_Sinorhizobium/Ensifer group;g_Sinorhizobium;s_Sinorhizobium meliloti
+k141_37561	28216	class	Betaproteobacteria	1	1	1	1.000	unknown;Pseudomonadota;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria
+k141_11913	1236	class	Gammaproteobacteria	3	3	3	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_52023	314146	superorder	Euarchontoglires	1	1	1	1.000	Metazoa;Chordata;uc_Euarchontoglires	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Deuterostomia;p_Chordata;-_Craniata;-_Vertebrata;-_Gnathostomata;-_Teleostomi;-_Euteleostomi;-_Sarcopterygii;-_Dipnotetrapodomorpha;-_Tetrapoda;-_Amniota;c_Mammalia;-_Theria;-_Eutheria;-_Boreoeutheria;-_Euarchontoglires
+k141_103375	1280	species	Staphylococcus aureus	2	2	1	0.500	unknown;Bacillota;Staphylococcaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Staphylococcaceae;g_Staphylococcus;s_Staphylococcus aureus
+k141_15584	54061	species	Ralstonia sp.	4	4	3	0.750	unknown;Pseudomonadota;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Ralstonia;-_unclassified Ralstonia;s_Ralstonia sp.
+k141_19309	192	species	Azospirillum brasilense	2	2	1	0.500	unknown;Pseudomonadota;Azospirillaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodospirillales;f_Azospirillaceae;g_Azospirillum;s_Azospirillum brasilense

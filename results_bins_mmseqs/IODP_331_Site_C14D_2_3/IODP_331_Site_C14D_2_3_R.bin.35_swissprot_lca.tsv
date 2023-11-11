@@ -1,0 +1,47 @@
+k141_126229	2157	superkingdom	Archaea	16	15	13	0.860	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_54789	0	no rank	unclassified	3	0	0	0.000		
+k141_100691	28890	phylum	Euryarchaeota	3	2	1	0.500	unknown;Euryarchaeota;uc_Euryarchaeota	-_cellular organisms;d_Archaea;p_Euryarchaeota
+k141_41590	2259	family	Thermococcaceae	2	2	1	0.500	unknown;Euryarchaeota;Thermococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;c_Thermococci;o_Thermococcales;f_Thermococcaceae
+k141_87827	2157	superkingdom	Archaea	22	18	12	0.670	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_146836	2157	superkingdom	Archaea	3	3	2	0.670	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_166429	2157	superkingdom	Archaea	18	18	9	0.500	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_166438	224308	strain	Bacillus subtilis subsp. subtilis str. 168	2	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_55217	2157	superkingdom	Archaea	5	5	3	0.600	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_186271	224308	strain	Bacillus subtilis subsp. subtilis str. 168	3	2	1	0.500	unknown;Bacillota;Bacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Bacillota;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;-_Bacillus subtilis group;s_Bacillus subtilis;-_Bacillus subtilis subsp. subtilis;-_Bacillus subtilis subsp. subtilis str. 168
+k141_19686	272557	strain	Aeropyrum pernix K1	2	2	1	0.500	unknown;Crenarchaeota;Desulfurococcaceae	-_cellular organisms;d_Archaea;-_TACK group;p_Crenarchaeota;c_Thermoprotei;o_Desulfurococcales;f_Desulfurococcaceae;g_Aeropyrum;s_Aeropyrum pernix;-_Aeropyrum pernix K1
+k141_164035	131567	no rank	cellular organisms	10	9	9	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_105214	2157	superkingdom	Archaea	25	22	18	0.780	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_46189	28890	phylum	Euryarchaeota	15	12	6	0.500	unknown;Euryarchaeota;uc_Euryarchaeota	-_cellular organisms;d_Archaea;p_Euryarchaeota
+k141_157735	2157	superkingdom	Archaea	5	5	4	0.800	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_125188	2157	superkingdom	Archaea	25	23	15	0.600	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_204127	2157	superkingdom	Archaea	10	10	6	0.600	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_112393	2157	superkingdom	Archaea	21	20	14	0.730	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_20604	2157	superkingdom	Archaea	16	16	12	0.750	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_138647	2157	superkingdom	Archaea	5	5	5	1.000	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_18501	224325	strain	Archaeoglobus fulgidus DSM 4304	4	4	2	0.500	unknown;Euryarchaeota;Archaeoglobaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;c_Archaeoglobi;o_Archaeoglobales;f_Archaeoglobaceae;g_Archaeoglobus;s_Archaeoglobus fulgidus;-_Archaeoglobus fulgidus DSM 4304
+k141_189673	2157	superkingdom	Archaea	9	7	4	0.570	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_208865	2	superkingdom	Bacteria	5	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_84594	2	superkingdom	Bacteria	7	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_183477	46770	species	Cenarchaeum symbiosum	2	2	1	0.500	unknown;Thaumarchaeota;Cenarchaeaceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;o_Cenarchaeales;f_Cenarchaeaceae;g_Cenarchaeum;s_Cenarchaeum symbiosum
+k141_190219	243232	strain	Methanocaldococcus jannaschii DSM 2661	1	1	1	1.000	unknown;Euryarchaeota;Methanocaldococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanocaldococcaceae;g_Methanocaldococcus;s_Methanocaldococcus jannaschii;-_Methanocaldococcus jannaschii DSM 2661
+k141_176973	2157	superkingdom	Archaea	36	31	20	0.630	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_153739	131567	no rank	cellular organisms	18	14	14	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_134337	2157	superkingdom	Archaea	5	5	4	0.750	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_55770	243232	strain	Methanocaldococcus jannaschii DSM 2661	3	2	2	1.000	unknown;Euryarchaeota;Methanocaldococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanocaldococcaceae;g_Methanocaldococcus;s_Methanocaldococcus jannaschii;-_Methanocaldococcus jannaschii DSM 2661
+k141_173918	2157	superkingdom	Archaea	2	2	2	1.000	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_114419	28890	phylum	Euryarchaeota	3	3	2	0.670	unknown;Euryarchaeota;uc_Euryarchaeota	-_cellular organisms;d_Archaea;p_Euryarchaeota
+k141_154253	2157	superkingdom	Archaea	13	11	7	0.640	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_174141	2157	superkingdom	Archaea	13	12	7	0.580	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_128403	224325	strain	Archaeoglobus fulgidus DSM 4304	1	1	1	1.000	unknown;Euryarchaeota;Archaeoglobaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;c_Archaeoglobi;o_Archaeoglobales;f_Archaeoglobaceae;g_Archaeoglobus;s_Archaeoglobus fulgidus;-_Archaeoglobus fulgidus DSM 4304
+k141_82766	374847	strain	Candidatus Korarchaeum cryptofilum OPF8	2	2	1	0.500	unknown;Candidatus Korarchaeota;unknown	-_cellular organisms;d_Archaea;-_TACK group;p_Candidatus Korarchaeota;g_Candidatus Korarchaeum;s_Candidatus Korarchaeum cryptofilum;-_Candidatus Korarchaeum cryptofilum OPF8
+k141_16927	28890	phylum	Euryarchaeota	1	1	1	1.000	unknown;Euryarchaeota;uc_Euryarchaeota	-_cellular organisms;d_Archaea;p_Euryarchaeota
+k141_83086	196118	genus	Methanocaldococcus	8	7	4	0.570	unknown;Euryarchaeota;Methanocaldococcaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Methanomada group;c_Methanococci;o_Methanococcales;f_Methanocaldococcaceae;g_Methanocaldococcus
+k141_135382	2157	superkingdom	Archaea	10	9	5	0.560	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_168283	2302	genus	Thermoplasma	2	1	1	1.000	unknown;Candidatus Thermoplasmatota;Thermoplasmataceae	-_cellular organisms;d_Archaea;p_Candidatus Thermoplasmatota;c_Thermoplasmata;o_Thermoplasmatales;f_Thermoplasmataceae;g_Thermoplasma
+k141_155454	2157	superkingdom	Archaea	11	8	7	0.860	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_83468	2157	superkingdom	Archaea	17	17	14	0.820	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_142116	0	no rank	unclassified	2	0	0	0.000		
+k141_96778	272557	strain	Aeropyrum pernix K1	4	4	2	0.500	unknown;Crenarchaeota;Desulfurococcaceae	-_cellular organisms;d_Archaea;-_TACK group;p_Crenarchaeota;c_Thermoprotei;o_Desulfurococcales;f_Desulfurococcaceae;g_Aeropyrum;s_Aeropyrum pernix;-_Aeropyrum pernix K1
+k141_96952	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_136264	2157	superkingdom	Archaea	17	15	15	1.000	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_5443	2157	superkingdom	Archaea	9	7	6	0.860	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea

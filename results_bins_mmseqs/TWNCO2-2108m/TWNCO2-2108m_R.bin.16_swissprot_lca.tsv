@@ -1,0 +1,75 @@
+k141_18302	306	species	Pseudomonas sp.	3	3	2	0.960	unknown;Pseudomonadota;Pseudomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;-_unclassified Pseudomonas;s_Pseudomonas sp.
+k141_87641	1224	phylum	Pseudomonadota	6	6	3	0.500	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_36542	1224	phylum	Pseudomonadota	22	22	14	0.640	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_102309	402881	strain	Parvibaculum lavamentivorans DS-1	10	7	4	0.570	unknown;Pseudomonadota;Parvibaculaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Parvibaculaceae;g_Parvibaculum;s_Parvibaculum lavamentivorans;-_Parvibaculum lavamentivorans DS-1
+k141_69542	28211	class	Alphaproteobacteria	54	50	29	0.560	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_33134	28211	class	Alphaproteobacteria	7	7	4	0.570	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_51469	28211	class	Alphaproteobacteria	8	8	4	0.500	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_25973	780	genus	Rickettsia	2	2	1	0.500	unknown;Pseudomonadota;Rickettsiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rickettsiales;f_Rickettsiaceae;-_Rickettsieae;g_Rickettsia
+k141_62512	1236	class	Gammaproteobacteria	2	2	2	1.000	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_54889	402881	strain	Parvibaculum lavamentivorans DS-1	7	6	3	0.500	unknown;Pseudomonadota;Parvibaculaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Parvibaculaceae;g_Parvibaculum;s_Parvibaculum lavamentivorans;-_Parvibaculum lavamentivorans DS-1
+k141_20368	1224	phylum	Pseudomonadota	22	19	14	0.770	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_115728	1236	class	Gammaproteobacteria	10	10	5	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_93769	1224	phylum	Pseudomonadota	9	7	4	0.500	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_105513	1224	phylum	Pseudomonadota	3	3	2	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_39322	356	order	Hyphomicrobiales	14	12	6	0.500	unknown;Pseudomonadota;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_100933	28211	class	Alphaproteobacteria	25	21	14	0.670	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_43388	1224	phylum	Pseudomonadota	6	6	5	0.830	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_68969	1224	phylum	Pseudomonadota	6	6	4	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_20988	1236	class	Gammaproteobacteria	9	9	5	0.560	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_7027	28211	class	Alphaproteobacteria	6	6	4	0.610	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_101153	41295	family	Rhodospirillaceae	1	1	1	1.000	unknown;Pseudomonadota;Rhodospirillaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Rhodospirillales;f_Rhodospirillaceae
+k141_94277	41294	family	Nitrobacteraceae	2	2	1	0.500	unknown;Pseudomonadota;Nitrobacteraceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Nitrobacteraceae
+k141_54617	28211	class	Alphaproteobacteria	12	12	7	0.510	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_1598	2	superkingdom	Bacteria	13	10	8	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_24929	2	superkingdom	Bacteria	22	21	19	0.900	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_53357	28211	class	Alphaproteobacteria	3	3	2	0.670	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_9387	1224	phylum	Pseudomonadota	20	20	14	0.700	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_75083	28211	class	Alphaproteobacteria	30	26	15	0.560	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_17006	28211	class	Alphaproteobacteria	13	11	6	0.550	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_53580	83333	strain	Escherichia coli K-12	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12
+k141_17227	1224	phylum	Pseudomonadota	20	19	11	0.580	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_1353	2	superkingdom	Bacteria	7	7	4	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_39026	402881	strain	Parvibaculum lavamentivorans DS-1	6	5	3	0.600	unknown;Pseudomonadota;Parvibaculaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Parvibaculaceae;g_Parvibaculum;s_Parvibaculum lavamentivorans;-_Parvibaculum lavamentivorans DS-1
+k141_61142	356	order	Hyphomicrobiales	7	7	5	0.610	unknown;Pseudomonadota;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_89901	1224	phylum	Pseudomonadota	17	17	9	0.530	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_66305	356	order	Hyphomicrobiales	45	39	23	0.600	unknown;Pseudomonadota;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_7977	155892	species	Caulobacter vibrioides	10	9	5	0.560	unknown;Pseudomonadota;Caulobacteraceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae;g_Caulobacter;s_Caulobacter vibrioides
+k141_110233	356	order	Hyphomicrobiales	29	27	17	0.630	unknown;Pseudomonadota;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_51874	28211	class	Alphaproteobacteria	34	32	20	0.640	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_70470	91347	order	Enterobacterales	2	2	1	0.500	unknown;Pseudomonadota;uc_Enterobacterales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales
+k141_99146	402881	strain	Parvibaculum lavamentivorans DS-1	22	20	11	0.550	unknown;Pseudomonadota;Parvibaculaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Parvibaculaceae;g_Parvibaculum;s_Parvibaculum lavamentivorans;-_Parvibaculum lavamentivorans DS-1
+k141_48247	356	order	Hyphomicrobiales	53	49	25	0.500	unknown;Pseudomonadota;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_30228	28211	class	Alphaproteobacteria	24	24	16	0.640	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_37832	1224	phylum	Pseudomonadota	50	44	29	0.650	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_30392	83333	strain	Escherichia coli K-12	4	4	2	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Escherichia;s_Escherichia coli;-_Escherichia coli K-12
+k141_51554	768066	strain	Halomonas elongata DSM 2581	2	2	1	0.930	unknown;Pseudomonadota;Halomonadaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Oceanospirillales;f_Halomonadaceae;g_Halomonas;s_Halomonas elongata;-_Halomonas elongata DSM 2581
+k141_62614	83332	strain	Mycobacterium tuberculosis H37Rv	1	1	1	1.000	unknown;Actinomycetota;Mycobacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinomycetota;c_Actinomycetes;o_Corynebacteriales;f_Mycobacteriaceae;g_Mycobacterium;-_Mycobacterium tuberculosis complex;s_Mycobacterium tuberculosis;-_Mycobacterium tuberculosis H37Rv
+k141_37128	1224	phylum	Pseudomonadota	3	3	2	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_69850	1224	phylum	Pseudomonadota	4	4	2	0.500	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_33436	28211	class	Alphaproteobacteria	12	12	8	0.670	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_48058	1236	class	Gammaproteobacteria	6	5	3	0.600	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_66139	1224	phylum	Pseudomonadota	45	45	29	0.640	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_110017	1224	phylum	Pseudomonadota	5	5	4	0.800	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_102865	28211	class	Alphaproteobacteria	26	24	14	0.570	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_4372	2	superkingdom	Bacteria	36	35	25	0.700	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_107482	356	order	Hyphomicrobiales	25	24	14	0.580	unknown;Pseudomonadota;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_38315	1224	phylum	Pseudomonadota	28	26	13	0.500	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_45257	391	species	Rhizobium sp.	2	2	1	0.500	unknown;Pseudomonadota;Rhizobiaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Rhizobiaceae;-_Rhizobium/Agrobacterium group;g_Rhizobium;-_unclassified Rhizobium;s_Rhizobium sp.
+k141_12735	28211	class	Alphaproteobacteria	14	14	9	0.640	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_67802	1236	class	Gammaproteobacteria	5	3	2	0.670	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_35114	28211	class	Alphaproteobacteria	56	51	26	0.500	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_78682	243231	strain	Geobacter sulfurreducens PCA	1	1	1	1.000	unknown;Pseudomonadota;Geobacteraceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfuromonadales;f_Geobacteraceae;g_Geobacter;s_Geobacter sulfurreducens;-_Geobacter sulfurreducens PCA
+k141_111301	1783272	clade	Terrabacteria group	4	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_53251	1224	phylum	Pseudomonadota	11	8	6	0.720	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_60598	356	order	Hyphomicrobiales	68	67	40	0.580	unknown;Pseudomonadota;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_44644	1224	phylum	Pseudomonadota	14	13	8	0.620	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_44753	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_63522	28211	class	Alphaproteobacteria	133	122	72	0.590	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_114417	28211	class	Alphaproteobacteria	9	8	6	0.750	unknown;Pseudomonadota;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria
+k141_67184	402881	strain	Parvibaculum lavamentivorans DS-1	1	1	1	1.000	unknown;Pseudomonadota;Parvibaculaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Parvibaculaceae;g_Parvibaculum;s_Parvibaculum lavamentivorans;-_Parvibaculum lavamentivorans DS-1
+k141_41484	1224	phylum	Pseudomonadota	9	8	7	0.880	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_78063	1236	class	Gammaproteobacteria	5	4	2	0.500	unknown;Pseudomonadota;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria
+k141_8822	1224	phylum	Pseudomonadota	7	7	4	0.570	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_48713	356	order	Hyphomicrobiales	40	34	23	0.680	unknown;Pseudomonadota;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_19588	356	order	Hyphomicrobiales	23	20	10	0.550	unknown;Pseudomonadota;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales

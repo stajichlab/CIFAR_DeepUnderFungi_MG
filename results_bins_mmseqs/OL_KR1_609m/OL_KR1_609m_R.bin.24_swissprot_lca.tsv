@@ -1,0 +1,4 @@
+k141_10297	90371	no rank	Salmonella enterica subsp. enterica serovar Typhimurium	2	2	1	0.500	unknown;Pseudomonadota;Enterobacteriaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae;g_Salmonella;s_Salmonella enterica;-_Salmonella enterica subsp. enterica;-_Salmonella enterica subsp. enterica serovar Typhimurium
+k141_5501	1224	phylum	Pseudomonadota	12	12	8	0.670	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_156307	1224	phylum	Pseudomonadota	30	29	24	0.820	unknown;Pseudomonadota;uc_Pseudomonadota	-_cellular organisms;d_Bacteria;p_Pseudomonadota
+k141_106819	773	genus	Bartonella	10	10	5	0.500	unknown;Pseudomonadota;Bartonellaceae	-_cellular organisms;d_Bacteria;p_Pseudomonadota;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Bartonellaceae;g_Bartonella
